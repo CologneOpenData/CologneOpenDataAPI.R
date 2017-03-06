@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^\.travis\.yml$
+^Makefile$
+^LICENSE$
+^testing\.R$
